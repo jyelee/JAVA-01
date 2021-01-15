@@ -2,8 +2,10 @@
 
 
 作业1:
+```
 javac ClassOne.java
 java ClassOne
+```
 
 
 作业2:
