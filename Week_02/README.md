@@ -5,8 +5,7 @@
 ## 关于GC的总结:
 
 ### GC 的模式
-SerialGC: -XX:+UseSerialGC
-ParallelGC: -XX:+UseParallelGC
-CMSGC: -XX:+UseConcMarkSweepGC
-G1GC: -XX:+UseG1GC
-
+* SerialGC: -XX:+UseSerialGC
+* ParallelGC: -XX:+UseParallelGC
+* CMSGC: -XX:+UseConcMarkSweepGC
+* G1GC: -XX:+UseG1GC
